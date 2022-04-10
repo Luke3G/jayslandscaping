@@ -11,3 +11,7 @@ background-color: white;
 .carouselExampleSlidesOnly{
     right: 500px;
 }
+.jumbotron{
+    text-align: center;
+    font-family:sans-serif;
+}
